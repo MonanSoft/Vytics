@@ -1,0 +1,37 @@
+site_name: Vytics Documentation
+site_url: http://www.vytics.com
+site_description: Support and Help Documentation for vytics.com
+site_author: support@vytics.com
+copyright: © Monan, LLC 2018
+repo_name: 'Back to Vytics'
+repo_url: 'http://www.vytics.com'
+pages:
+    - Home: index.md
+    - Installation: installation.md
+    - Activation: activation.md
+    - Working with Connection:
+      - 'Create new connection': 'connection/create.md'
+      - 'Data section': 'connection/data.md'
+      - 'Graph section': 'connection/graph.md'
+      - 'Statistics section': 'connection/stats.md'
+    - Working with Project:
+      - 'Create new project': 'project/create.md'
+      - 'Working with Data': 'project/data.md'
+      - 'Working with Report': 'project/report.md'
+    - Settings: settings.md
+theme:
+  name: 'material'
+  favicon: 'img/favicon.ico'
+  logo: 'img/logo.png'
+  # custom_dir: 'custom-theme'
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/MonanSoft/Vytics/issues'
+    - type: 'twitter'
+      link: 'https://twitter.com/monansoft'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/monansoft/'
+    - type: 'youtube'
+      link: 'https://www.youtube.com/channel/UC8R2PzXfmG88a-Cjj-a0B0A'
