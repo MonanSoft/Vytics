@@ -1,0 +1,244 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to \nVytics\n\n\nIntroduction\n\n\nVytics is an analytics platform that helps you and your organization discover better insights faster, thus making better decision on time.\n\n\nMain Features\n\n\n\n\nQuery, graph, and do statistical analysis in a \nConnection\n.\n\n\nOrganize and manage data and report in a \nProject\n.\n\n\nData\n - Query, join/merge, manage data from multiple connections.\n\n\nReport\n - Visualize data and organize plots in predefined layouts.\n\n\n\n\n\n\n\n\nA Quick Look\n\n\n\n\n\n\n(1) \nNew Connection\n and \nNew Project\n buttons to create a new connection or a new project.\n\n\n(2) \nSettings\n and \nHelp\n buttons to configure, activate, and get help about Vytics.\n\n\n(3) \nConnection\n pane that lists all connections\n\n\n(4) \nProject\n pane that lists recent projects (e.g., \nHome Energy\n project)\n\n\n(5) Recent reports in the project\n\n\n(6) A switch to list recent projects or all projects.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-vytics",
+            "text": "",
+            "title": "Welcome to Vytics"
+        },
+        {
+            "location": "/#introduction",
+            "text": "Vytics is an analytics platform that helps you and your organization discover better insights faster, thus making better decision on time.",
+            "title": "Introduction"
+        },
+        {
+            "location": "/#main-features",
+            "text": "Query, graph, and do statistical analysis in a  Connection .  Organize and manage data and report in a  Project .  Data  - Query, join/merge, manage data from multiple connections.  Report  - Visualize data and organize plots in predefined layouts.",
+            "title": "Main Features"
+        },
+        {
+            "location": "/#a-quick-look",
+            "text": "(1)  New Connection  and  New Project  buttons to create a new connection or a new project.  (2)  Settings  and  Help  buttons to configure, activate, and get help about Vytics.  (3)  Connection  pane that lists all connections  (4)  Project  pane that lists recent projects (e.g.,  Home Energy  project)  (5) Recent reports in the project  (6) A switch to list recent projects or all projects.",
+            "title": "A Quick Look"
+        },
+        {
+            "location": "/installation/",
+            "text": "Installation\n\n\nRun the installation executable file you downloaded from our webiste and follow the steps below to install Vytics Desktop.\n\n\n\n\n\n\nGo to Vytics download page and download suitable Vytics version. \n\n\n\n\n\n\nRun the download file. \n\n\n\n\n\n\nWindows may block you from running it. Select \nMore info\n. \n\n\n\n\n\n\nClick on \nRun anyway\n to continue. \n\n\n\n\n\n\nOn the Setup Wizard, Click \nNext\n to continue. \n\n\n\n\n\n\nRead the \nLicense Agreement\n carefully. If you agree with the agreement, click \nNext\n to continue. \n\n\n\n\n\n\nClick \nBrowse\n and select where you want to install Vytics. Click \nNext\n to continue. \n\n\n\n\n\n\nConfirm installation. Click \nNext\n to continue. \n\n\n\n\n\n\nWindows asks for permission to continue with the installation. Click \nNext\n to continue. \n\n\n\n\n\n\nBy default, Vytics will start after the installation. If you do not want to start Vytics, uncheck \nLaunch Vytics\n. Click \nClose\n to complete the installation.",
+            "title": "Installation"
+        },
+        {
+            "location": "/installation/#installation",
+            "text": "Run the installation executable file you downloaded from our webiste and follow the steps below to install Vytics Desktop.    Go to Vytics download page and download suitable Vytics version.     Run the download file.     Windows may block you from running it. Select  More info .     Click on  Run anyway  to continue.     On the Setup Wizard, Click  Next  to continue.     Read the  License Agreement  carefully. If you agree with the agreement, click  Next  to continue.     Click  Browse  and select where you want to install Vytics. Click  Next  to continue.     Confirm installation. Click  Next  to continue.     Windows asks for permission to continue with the installation. Click  Next  to continue.     By default, Vytics will start after the installation. If you do not want to start Vytics, uncheck  Launch Vytics . Click  Close  to complete the installation.",
+            "title": "Installation"
+        },
+        {
+            "location": "/activation/",
+            "text": "Activation\n\n\nTrial Request\n\n\nThe trial version of Vytics Desktop is free and works for 2 weeks. After that, you will have to purchase a paid version to continue using Vytics.\n\n\n\n\n\n\nThe first time Vytics Desktop starts, you will see the window below. To request for trial version:\n\n\n\n\nCheck \nI have not bought Vytics yet (Trial License)\n to request for trial version\n\n\nEnter your information\n\n\n\n\nClick \nSubmit Request\n to send your request. \n\n\n\n\n\n\nYou will receive trial key immediately if your request is valid. Click \nOK\n to start using Vytics Desktop. \n\n\n\n\n\n\n\n\n\n\nPaid Activation Request\n\n\nIf you have already purchased Vytics Desktop:\n\n\n\n\nUncheck \nI have not bought Vytics yet (Trial License)\n if you have purchased Vytics Desktop.\n\n\nEnter your information and \nTransaction ID\n and click \nSubmit Request\n. You will receive a temporary key immediately and we will send the activation key to you via the email you provided.\n\n\n\n\n\n\nEnter Paid Activation Key\n\n\n\n\n\n\nUpon receiving your activation key in the email you provided during request process, go to \nSettings\n -> \nApplication Activation\n to open activation window. \n\n\n\n\n\n\nCopy and paste your activation key to the \nLicense Information\n and click \nActivate\n. \n\n\n\n\n\n\nIf your license key is valid, Vytics will be activated immediately. Click \nOK\n to complete your activation process.",
+            "title": "Activation"
+        },
+        {
+            "location": "/activation/#activation",
+            "text": "",
+            "title": "Activation"
+        },
+        {
+            "location": "/activation/#trial-request",
+            "text": "The trial version of Vytics Desktop is free and works for 2 weeks. After that, you will have to purchase a paid version to continue using Vytics.    The first time Vytics Desktop starts, you will see the window below. To request for trial version:   Check  I have not bought Vytics yet (Trial License)  to request for trial version  Enter your information   Click  Submit Request  to send your request.     You will receive trial key immediately if your request is valid. Click  OK  to start using Vytics Desktop.",
+            "title": "Trial Request"
+        },
+        {
+            "location": "/activation/#paid-activation-request",
+            "text": "If you have already purchased Vytics Desktop:   Uncheck  I have not bought Vytics yet (Trial License)  if you have purchased Vytics Desktop.  Enter your information and  Transaction ID  and click  Submit Request . You will receive a temporary key immediately and we will send the activation key to you via the email you provided.",
+            "title": "Paid Activation Request"
+        },
+        {
+            "location": "/activation/#enter-paid-activation-key",
+            "text": "Upon receiving your activation key in the email you provided during request process, go to  Settings  ->  Application Activation  to open activation window.     Copy and paste your activation key to the  License Information  and click  Activate .     If your license key is valid, Vytics will be activated immediately. Click  OK  to complete your activation process.",
+            "title": "Enter Paid Activation Key"
+        },
+        {
+            "location": "/connection/create/",
+            "text": "Create new Connection\n\n\nThis section describes how to create a new text connection. Creating other connection types is similar.\n\n\nCreate New Text Connection\n\n\n\n\n\n\nClick \nNew Connection\n button on the top left corner to create a new connection.\n\n\n\n\n\n\nInstall text driver if you do not have it (skip to step 9 if you already had one). Click \nDownload and Install\n to install the required driver. \n\n\n\n\n\n\nThe progress bar will show the download progress. Once the download completes, the installation will run automatically. \n\n\n\n\n\n\nClick \nYes\n to accept the driver installation. \n\n\n\n\n\n\nClick \nNext\n to continue. ![Welcome Wizard]](/img/connection/new_conn/new_con5.png)\n\n\n\n\n\n\nRead the license agreement carefully and check accept box. Click \nNext\n to continue. \n\n\n\n\n\n\nSelect install location and click \nInstall\n. \n\n\n\n\n\n\nClick \nOK\n to continue. \n\n\n\n\n\n\nEnter \nConnection Name\n and click \nBrowse\n. \n\n\n\n\n\n\nSelect a text file and click \nOpen\n. \n\n\n\n\n\n\nThe preview panel will show the content of your text file. Click \nSave\n to save connection. Click \nDefine Custom Format\n if what you see in the preview is not what you expect. \n\n\n\n\n\n\nThe newly created connection will show on the \nConnection\n section of the Home tab page. \n\n\n\n\n\n\nCreate New Excel Connection\n\n\n\n\nCreate a new Excel connection is very similar to creating a text connection. Enter \nConnection Name\n and click \nBrowse\n to browse to the file location. \n\n\n\n\nCreate New SQLite Connection\n\n\n\n\nEnter \nConnection Name\n and click \nBrowse\n to browse to the file location. Enter \nPassword\n if your datatbase file is password-protected. \n\n\n\n\nCreate New PostgreSQL Connection\n\n\n\n\n\n\nEnter \nConnection Name\n and the PostgreSQL server information. Click \nAdvanced\n for more options. \n\n\n\n\n\n\nEnter \nInitial Database\n if you want to set a default database when open the connection. Click \nSave\n to complete adding new connection. \n\n\n\n\n\n\nCreate New MySQL Connection\n\n\n\n\nEnter \nConnection Name\n and the PostgreSQL server information. Click \nSave\n to complete adding new connection. \n\n\n\n\nCreate New Microsoft SQLServer Connection\n\n\n\n\n\n\nEnter \nConnection Name\n and the SQLServer server information. Vytics supports both \nWindows Authentication\n and \nServer Authentication\n. Click \nAdvanced\n for more options. \n\n\n\n\n\n\nEnter \nInitial Database\n if you want to set a default database when open the connection. Click \nSave\n to complete adding new connection.",
+            "title": "Create new connection"
+        },
+        {
+            "location": "/connection/create/#create-new-connection",
+            "text": "This section describes how to create a new text connection. Creating other connection types is similar.",
+            "title": "Create new Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-text-connection",
+            "text": "Click  New Connection  button on the top left corner to create a new connection.    Install text driver if you do not have it (skip to step 9 if you already had one). Click  Download and Install  to install the required driver.     The progress bar will show the download progress. Once the download completes, the installation will run automatically.     Click  Yes  to accept the driver installation.     Click  Next  to continue. ![Welcome Wizard]](/img/connection/new_conn/new_con5.png)    Read the license agreement carefully and check accept box. Click  Next  to continue.     Select install location and click  Install .     Click  OK  to continue.     Enter  Connection Name  and click  Browse .     Select a text file and click  Open .     The preview panel will show the content of your text file. Click  Save  to save connection. Click  Define Custom Format  if what you see in the preview is not what you expect.     The newly created connection will show on the  Connection  section of the Home tab page.",
+            "title": "Create New Text Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-excel-connection",
+            "text": "Create a new Excel connection is very similar to creating a text connection. Enter  Connection Name  and click  Browse  to browse to the file location.",
+            "title": "Create New Excel Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-sqlite-connection",
+            "text": "Enter  Connection Name  and click  Browse  to browse to the file location. Enter  Password  if your datatbase file is password-protected.",
+            "title": "Create New SQLite Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-postgresql-connection",
+            "text": "Enter  Connection Name  and the PostgreSQL server information. Click  Advanced  for more options.     Enter  Initial Database  if you want to set a default database when open the connection. Click  Save  to complete adding new connection.",
+            "title": "Create New PostgreSQL Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-mysql-connection",
+            "text": "Enter  Connection Name  and the PostgreSQL server information. Click  Save  to complete adding new connection.",
+            "title": "Create New MySQL Connection"
+        },
+        {
+            "location": "/connection/create/#create-new-microsoft-sqlserver-connection",
+            "text": "Enter  Connection Name  and the SQLServer server information. Vytics supports both  Windows Authentication  and  Server Authentication . Click  Advanced  for more options.     Enter  Initial Database  if you want to set a default database when open the connection. Click  Save  to complete adding new connection.",
+            "title": "Create New Microsoft SQLServer Connection"
+        },
+        {
+            "location": "/connection/data/",
+            "text": "Data Section\n\n\nOpen connection and query data\n\n\nVytics Desktop allows you to query all connections in SQL language. To query data from a connection, follow steps below.\n\n\n\n\n\n\nDouble left click to open a connection. If a connection is a text file, this will also query the data from the connection. \n\n\n\n\n\n\nThe default query and queried data will be shown. \n\n\n\n\n\n\nYou can modify the SQL query to fit your needs. Vytics offers auto-complete feature and context sensitive editor. \n\n\n\n\n\n\nAfter editting the SQL query, click \nExecute\n or press \nF5\n to run the query. The result will be updated in the data grid at the bottom. \n\n\n\n\n\n\nAdd custom column\n\n\nBefore plotting any dataset, you should check for data types to prevent unexpected result. To add a custom column, follow steps below.\n\n\n\n\n\n\nOpen and query \nhome_energy\n connection (file home_energy_consumption.csv). Click \nColumns Info\n to see columns information. \n\n\n\n\n\n\nNotice the \nTimestamp\n column has the data type of \nString\n, which is not correct. There are 2 options to solve this issue: 1) change the SQL query to cast the \nTimestamp\n column to \nDateTime\n data type or 2) add a custom column. In this section, we will use approach (2). \n\n\n\n\n\n\nRight click anywhere on the data grid header and select \nAdd Custom Field\n. \n\n\n\n\n\n\nThe \nAdd Custom Field\n dialog will display. There is a \nQuick Help\n on the right hand side for your convenience. Start typing \nTimestamp\n in the left text area. \n\n\n\n\n\n\nAt the bottom, select \nDateTime\n as return data type and enter \nTimestamp2\n as new field name. Click \nAdd Field\n to complete. \n\n\n\n\n\n\nYou will see new field \nTimestamp2\n added to your result. \n\n\n\n\n\n\nExport data\n\n\nVytics allows you to export data in 2 different formats. Each export format has multiple options that you can use (e.g., export all or just visible columns, with or without header, etc.)\n\n\n\n\n\n\nClick \nCSV Export\n to export data to csv file. \n\n\n\n\n\n\nSelect where you want to save the exported data and enter the file name. Click \nSave\n to write data to disk. \n\n\n\n\n\n\nQuery history\n\n\nVytics saves all executed queries and group them by date. To retrieve past queries, follow steps below:\n\n\n\n\n\n\nClick \nOpen Query History\n. \n\n\n\n\n\n\nQuery history dialog will open. A list of dates is displayed on the left and all queries that are executed on the selected date are displayed in the text area on the right hand side.",
+            "title": "Data section"
+        },
+        {
+            "location": "/connection/data/#data-section",
+            "text": "",
+            "title": "Data Section"
+        },
+        {
+            "location": "/connection/data/#open-connection-and-query-data",
+            "text": "Vytics Desktop allows you to query all connections in SQL language. To query data from a connection, follow steps below.    Double left click to open a connection. If a connection is a text file, this will also query the data from the connection.     The default query and queried data will be shown.     You can modify the SQL query to fit your needs. Vytics offers auto-complete feature and context sensitive editor.     After editting the SQL query, click  Execute  or press  F5  to run the query. The result will be updated in the data grid at the bottom.",
+            "title": "Open connection and query data"
+        },
+        {
+            "location": "/connection/data/#add-custom-column",
+            "text": "Before plotting any dataset, you should check for data types to prevent unexpected result. To add a custom column, follow steps below.    Open and query  home_energy  connection (file home_energy_consumption.csv). Click  Columns Info  to see columns information.     Notice the  Timestamp  column has the data type of  String , which is not correct. There are 2 options to solve this issue: 1) change the SQL query to cast the  Timestamp  column to  DateTime  data type or 2) add a custom column. In this section, we will use approach (2).     Right click anywhere on the data grid header and select  Add Custom Field .     The  Add Custom Field  dialog will display. There is a  Quick Help  on the right hand side for your convenience. Start typing  Timestamp  in the left text area.     At the bottom, select  DateTime  as return data type and enter  Timestamp2  as new field name. Click  Add Field  to complete.     You will see new field  Timestamp2  added to your result.",
+            "title": "Add custom column"
+        },
+        {
+            "location": "/connection/data/#export-data",
+            "text": "Vytics allows you to export data in 2 different formats. Each export format has multiple options that you can use (e.g., export all or just visible columns, with or without header, etc.)    Click  CSV Export  to export data to csv file.     Select where you want to save the exported data and enter the file name. Click  Save  to write data to disk.",
+            "title": "Export data"
+        },
+        {
+            "location": "/connection/data/#query-history",
+            "text": "Vytics saves all executed queries and group them by date. To retrieve past queries, follow steps below:    Click  Open Query History .     Query history dialog will open. A list of dates is displayed on the left and all queries that are executed on the selected date are displayed in the text area on the right hand side.",
+            "title": "Query history"
+        },
+        {
+            "location": "/connection/graph/",
+            "text": "Graph Section\n\n\nPlot data\n\n\nVytics Desktop allows you to plot your SQL query result quickly. To plot data, follow steps below.\n\n\n\n\n\n\nClick on \nGraph\n button to switch to Graph view. Click on the \nminus sign\n to collapse the Connection Explorer pane. \n\n\n\n\n\n\nDrag and drop columns from the result treeview on the left to the variable boxes on the right. In this example, \nTimestamp\n is dragged into \nIndependent Var\n box and \nGlobalActivePower_kW\n and \nGlobalReactivePower_kW\n are dragged into \nDependent Vars1\n box. \n\n\n\n\n\n\nThe plot will automatically display as you drag and drop columns to the variable boxes. \n\n\n\n\n\n\nYou can also show/hide series by clicking on the series legend. In this picture, \nGlobalReactivePower_kW\n is hidden from the view. See more graph operations in the \nProject Report\n section. \n\n\n\n\n\n\nFilter/Smooth data\n\n\nVytics offers multiple ways to filter and smooth your data. To filter/smooth data, follow steps below.\n\n\n\n\n\n\nClick \nFiltering\n and then \nFiltering top N values\n to start filtering process. \n\n\n\n\n\n\nEnter information as below and click \nAdd Series\n to highlight 10 points having greatest values. \n\n\n\n\n\n\nA new series \nGlobalActivePower_kW_TopN\n is added to the plot. \n\n\n\n\n\n\nClick \nSmoothing\n and then \nMoving Average\n to start smoothing process. \n\n\n\n\n\n\nEnter information as below and click \nAdd Series\n. \n\n\n\n\n\n\nA new series \nGlobalActivePower_kW_MovingAverage\n is added to the plot. \n\n\n\n\n\n\nClick \nGlobalActivePower_kW\n and \nGlobalActivePower_kW_TopN\n to hide them. \n\n\n\n\n\n\nExport chart\n\n\nTo export your plot, follow steps below.\n\n\n\n\n\n\nClick \nExport Chart\n. \n\n\n\n\n\n\nSelect where you want to save the exported plot and enter the file name. Click \nSave\n.",
+            "title": "Graph section"
+        },
+        {
+            "location": "/connection/graph/#graph-section",
+            "text": "",
+            "title": "Graph Section"
+        },
+        {
+            "location": "/connection/graph/#plot-data",
+            "text": "Vytics Desktop allows you to plot your SQL query result quickly. To plot data, follow steps below.    Click on  Graph  button to switch to Graph view. Click on the  minus sign  to collapse the Connection Explorer pane.     Drag and drop columns from the result treeview on the left to the variable boxes on the right. In this example,  Timestamp  is dragged into  Independent Var  box and  GlobalActivePower_kW  and  GlobalReactivePower_kW  are dragged into  Dependent Vars1  box.     The plot will automatically display as you drag and drop columns to the variable boxes.     You can also show/hide series by clicking on the series legend. In this picture,  GlobalReactivePower_kW  is hidden from the view. See more graph operations in the  Project Report  section.",
+            "title": "Plot data"
+        },
+        {
+            "location": "/connection/graph/#filtersmooth-data",
+            "text": "Vytics offers multiple ways to filter and smooth your data. To filter/smooth data, follow steps below.    Click  Filtering  and then  Filtering top N values  to start filtering process.     Enter information as below and click  Add Series  to highlight 10 points having greatest values.     A new series  GlobalActivePower_kW_TopN  is added to the plot.     Click  Smoothing  and then  Moving Average  to start smoothing process.     Enter information as below and click  Add Series .     A new series  GlobalActivePower_kW_MovingAverage  is added to the plot.     Click  GlobalActivePower_kW  and  GlobalActivePower_kW_TopN  to hide them.",
+            "title": "Filter/Smooth data"
+        },
+        {
+            "location": "/connection/graph/#export-chart",
+            "text": "To export your plot, follow steps below.    Click  Export Chart .     Select where you want to save the exported plot and enter the file name. Click  Save .",
+            "title": "Export chart"
+        },
+        {
+            "location": "/connection/stats/",
+            "text": "Statistics Section\n\n\nVytics Desktop offers some statistics functions. This is a new feature and we are gradually add more functions to it.\n\n\n\n\n\n\nOpen and query data from a connection. Click on \nStatistics\n button to switch to statistics view. In statistics view, click on \nStatistics\n and then \nDescriptive Statistics\n. \n\n\n\n\n\n\nSelect a variable in the drop-down and click \nRun\n.  \n\n\n\n\n\n\nThe statistics will be displayed on the right pane.",
+            "title": "Statistics section"
+        },
+        {
+            "location": "/connection/stats/#statistics-section",
+            "text": "Vytics Desktop offers some statistics functions. This is a new feature and we are gradually add more functions to it.    Open and query data from a connection. Click on  Statistics  button to switch to statistics view. In statistics view, click on  Statistics  and then  Descriptive Statistics .     Select a variable in the drop-down and click  Run .      The statistics will be displayed on the right pane.",
+            "title": "Statistics Section"
+        },
+        {
+            "location": "/project/create/",
+            "text": "Create New Project\n\n\nProject is where you manage your data and reports. This section describes basic operations when working on a project.\n\n\nCreate Project\n\n\n\n\n\n\nClick \nNew Project\n button on the top left corner to create a new project. \n\n\n\n\n\n\nEnter \nProject Name\n and \nProject Description\n. Click \nSave\n to complete. \n\n\n\n\n\n\nProject Home will automatically display. \n\n\n\n\n\n\nDelete Project\n\n\n\n\n\n\nClick \nDelete Project\n icon to delete an existing project.\n\n\n\n\n\n\nClick \nYes\n to confirm. \n\n\n\n\n\n\nOpen Existing Project\n\n\n\n\n\n\nClick on project name \nHome Energy\n to open the project. \n\n\n\n\n\n\nThe Project Home will display. There are few important items:\n\n\n\n\n(1) \nNew Data\n button to create a new Data\n\n\n(2) \nNew Report\n button to create a new Report\n\n\n(3) Project treeview to display all data and reports\n\n\n(4) Snapshots of recent reports.",
+            "title": "Create new project"
+        },
+        {
+            "location": "/project/create/#create-new-project",
+            "text": "Project is where you manage your data and reports. This section describes basic operations when working on a project.",
+            "title": "Create New Project"
+        },
+        {
+            "location": "/project/create/#create-project",
+            "text": "Click  New Project  button on the top left corner to create a new project.     Enter  Project Name  and  Project Description . Click  Save  to complete.     Project Home will automatically display.",
+            "title": "Create Project"
+        },
+        {
+            "location": "/project/create/#delete-project",
+            "text": "Click  Delete Project  icon to delete an existing project.    Click  Yes  to confirm.",
+            "title": "Delete Project"
+        },
+        {
+            "location": "/project/create/#open-existing-project",
+            "text": "Click on project name  Home Energy  to open the project.     The Project Home will display. There are few important items:   (1)  New Data  button to create a new Data  (2)  New Report  button to create a new Report  (3) Project treeview to display all data and reports  (4) Snapshots of recent reports.",
+            "title": "Open Existing Project"
+        },
+        {
+            "location": "/project/data/",
+            "text": "Project Data\n\n\nA \nData\n is a model where you specify how you structure or merge/join data either vertically or horizontally. You can create a \nData\n from one or multiple connections.\n\n\nCreate new data\n\n\nTo create a new data, follow steps below.\n\n\n\n\n\n\nClick on project name \nHome Energy\n to open the project. \n\n\n\n\n\n\nClick on \nNew Data\n to create a new data. \n\n\n\n\n\n\nThe \nNew Data\n dialog will display. Select \nhome_energy_consumption\n from the \nConnection\n drop-down. \n\n\n\n\n\n\nThe \nDatabase\n and \nTable\n fields are auto-populated because the connection is text-based. Click on the triangle icon to push the data source to the model pane. \n\n\n\n\n\n\nThe data for the \nhome_energy_consumption\n will be displayed in the \nData Preview\n. \n\n\n\n\n\n\nSimilarly, add \nweather_Sceaux_France\n to the data model. \n\n\n\n\n\n\nClick on the overlapped circles icon to select merge/join field. \n\n\n\n\n\n\nVytics supports 4 types of merge/join. Default selection is \nInner Join\n. Click on the question mark icon the top right corner to get more details. Select left and right join fields from the drop-down. The \nData Preview\n will auto update after the selection completes. \n\n\n\n\n\n\nEnter data name and data description and click \nSave\n. \n\n\n\n\n\n\nThe new data \nEnergy with Weather\n is added. \n\n\n\n\n\n\nView/edit/rename/remove data\n\n\nTo view/edit/rename/remove data, right click on the data and select the option accordingly.",
+            "title": "Working with Data"
+        },
+        {
+            "location": "/project/data/#project-data",
+            "text": "A  Data  is a model where you specify how you structure or merge/join data either vertically or horizontally. You can create a  Data  from one or multiple connections.",
+            "title": "Project Data"
+        },
+        {
+            "location": "/project/data/#create-new-data",
+            "text": "To create a new data, follow steps below.    Click on project name  Home Energy  to open the project.     Click on  New Data  to create a new data.     The  New Data  dialog will display. Select  home_energy_consumption  from the  Connection  drop-down.     The  Database  and  Table  fields are auto-populated because the connection is text-based. Click on the triangle icon to push the data source to the model pane.     The data for the  home_energy_consumption  will be displayed in the  Data Preview .     Similarly, add  weather_Sceaux_France  to the data model.     Click on the overlapped circles icon to select merge/join field.     Vytics supports 4 types of merge/join. Default selection is  Inner Join . Click on the question mark icon the top right corner to get more details. Select left and right join fields from the drop-down. The  Data Preview  will auto update after the selection completes.     Enter data name and data description and click  Save .     The new data  Energy with Weather  is added.",
+            "title": "Create new data"
+        },
+        {
+            "location": "/project/data/#vieweditrenameremove-data",
+            "text": "To view/edit/rename/remove data, right click on the data and select the option accordingly.",
+            "title": "View/edit/rename/remove data"
+        },
+        {
+            "location": "/project/report/",
+            "text": "Project Report\n\n\nA \nReport\n is a set of plots and data that are organized in a certain order or layout. A report's data source can be a connection or a data.\n\n\nCreate new report\n\n\nTo create a new report, follow steps below.\n\n\n\n\n\n\nClick on project name \nHome Energy\n to open the project. \n\n\n\n\n\n\nClick on \nNew Report\n to create a new report. \n\n\n\n\n\n\nEnter report name and report description and click \nSave\n. \n\n\n\n\n\n\nA new report view is displayed. Click add plot icon (bar chart with plus sign icon) to add a plot to the report. \n\n\n\n\n\n\nSelect data source from the drop-down. A data source can be \nConnections\n or \nProject Data\n. \n\n\n\n\n\n\nDrag and drop \nTimestamp\n, \nGlobalActivePower_kW\n, and \ntemperature\n to variable text boxes to create a plot. \n\n\n\n\n\n\nA plot is created. Click \nAdd Chart\n to add this plot to the report. \n\n\n\n\n\n\nThe report now has a plot. Repeat the same steps to add a second plot. \n\n\n\n\n\n\nThe report now has 2 plots. The first plot is \nGlobalActivePower_kW\n and \ntemperature\n over time. The second plot is \nAC_WaterHeater_Wh\n and \ntemperature\n over time. Right click on each of the plots and select \nChart Settings\n \n\n\n\n\n\n\nA report with 2 plots has been created successfully. You should be able to see its snapshot on the \nProject Home\n. \n\n\n\n\n\n\nView/edit/rename/remove report\n\n\nTo view/edit/rename/remove report, right click on the report and select the option accordingly.",
+            "title": "Working with Report"
+        },
+        {
+            "location": "/project/report/#project-report",
+            "text": "A  Report  is a set of plots and data that are organized in a certain order or layout. A report's data source can be a connection or a data.",
+            "title": "Project Report"
+        },
+        {
+            "location": "/project/report/#create-new-report",
+            "text": "To create a new report, follow steps below.    Click on project name  Home Energy  to open the project.     Click on  New Report  to create a new report.     Enter report name and report description and click  Save .     A new report view is displayed. Click add plot icon (bar chart with plus sign icon) to add a plot to the report.     Select data source from the drop-down. A data source can be  Connections  or  Project Data .     Drag and drop  Timestamp ,  GlobalActivePower_kW , and  temperature  to variable text boxes to create a plot.     A plot is created. Click  Add Chart  to add this plot to the report.     The report now has a plot. Repeat the same steps to add a second plot.     The report now has 2 plots. The first plot is  GlobalActivePower_kW  and  temperature  over time. The second plot is  AC_WaterHeater_Wh  and  temperature  over time. Right click on each of the plots and select  Chart Settings      A report with 2 plots has been created successfully. You should be able to see its snapshot on the  Project Home .",
+            "title": "Create new report"
+        },
+        {
+            "location": "/project/report/#vieweditrenameremove-report",
+            "text": "To view/edit/rename/remove report, right click on the report and select the option accordingly.",
+            "title": "View/edit/rename/remove report"
+        },
+        {
+            "location": "/settings/",
+            "text": "Settings\n\n\nVytics allows you to do your own customization in many different ways. To customize Vytics, follow steps below.\n\n\n\n\n\n\nClick on settings icon on the top right corner (wrench and hammer icon) and then select \nApplication Settings\n. \n\n\n\n\n\n\nThe settings view will display. You will see settings groups on the left hand side and a list of settings corresponding to the selected group on the right hand side.",
+            "title": "Settings"
+        },
+        {
+            "location": "/settings/#settings",
+            "text": "Vytics allows you to do your own customization in many different ways. To customize Vytics, follow steps below.    Click on settings icon on the top right corner (wrench and hammer icon) and then select  Application Settings .     The settings view will display. You will see settings groups on the left hand side and a list of settings corresponding to the selected group on the right hand side.",
+            "title": "Settings"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>http://www.vytics.com/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://www.vytics.com/installation/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>http://www.vytics.com/activation/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>http://www.vytics.com/connection/create/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://www.vytics.com/connection/data/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://www.vytics.com/connection/graph/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://www.vytics.com/connection/stats/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>http://www.vytics.com/project/create/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://www.vytics.com/project/data/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>http://www.vytics.com/project/report/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>http://www.vytics.com/settings/</loc>
+     <lastmod>2018-02-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
