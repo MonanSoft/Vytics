@@ -18,4 +18,6 @@ Customize your charts and organize them using our pre-built layouts. Whether it 
 
 Vytics supports the most popular data connectors, such as Microsoft SQL Server, MySQL, PostgreSQL, SQLite, Excel, and text files (e.g., CSV, TSV). And many more to come.
 
+## Support
+
 Please post your comments/issues/requests in Issues section.
