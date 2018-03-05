@@ -21,3 +21,7 @@ Vytics supports the most popular data connectors, such as Microsoft SQL Server, 
 ## Support
 
 Please post your comments/issues/requests in Issues section.
+
+## License
+
+Licenses are specified separately in README.md files in each library/package folder
