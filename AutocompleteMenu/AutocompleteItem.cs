@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
@@ -8,7 +8,9 @@ namespace AutocompleteMenuNS
     /// <summary>
     /// Item of autocomplete menu
     /// </summary>
+    public class AutocompleteItem
     {
+        public object Tag;
         string toolTipTitle;
         string toolTipText;
         string menuText;
@@ -110,9 +112,10 @@ namespace AutocompleteMenuNS
         /// </summary>
         public virtual CompareResult Compare(string fragmentText)
         {
-            if (Text.StartsWith(fragmentText, StringComparison.InvariantCultureIgnoreCase) &&
-                   Text != fragmentText)
-                return CompareResult.VisibleAndSelected;
+			//if (Text.StartsWith(fragmentText, StringComparison.InvariantCultureIgnoreCase) &&
+			//       Text != fragmentText)
+			if (Text.StartsWith(fragmentText, StringComparison.InvariantCultureIgnoreCase))
+				return CompareResult.VisibleAndSelected;
 
             return CompareResult.Hidden;
         }
